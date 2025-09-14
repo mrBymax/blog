@@ -6,7 +6,28 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 23:23:01 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Thought Experiment of the Impossible Barber</title>
+      <link>//localhost:1313/posts/impossible-barber/</link>
+      <pubDate>Sun, 14 Sep 2025 23:23:01 +0200</pubDate>
+      <guid>//localhost:1313/posts/impossible-barber/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Forty Year Career</title>
+      <link>//localhost:1313/posts/a-forty-year-career/</link>
+      <pubDate>Thu, 11 Sep 2025 23:25:58 +0200</pubDate>
+      <guid>//localhost:1313/posts/a-forty-year-career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>//localhost:1313/posts/test/</link>
+      <pubDate>Mon, 01 Sep 2025 14:39:06 +0200</pubDate>
+      <guid>//localhost:1313/posts/test/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
