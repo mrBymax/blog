@@ -6,28 +6,28 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Sep 2025 23:23:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 23:48:40 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Thought Experiment of the Impossible Barber</title>
-      <link>//localhost:1313/posts/impossible-barber/</link>
-      <pubDate>Sun, 14 Sep 2025 23:23:01 +0200</pubDate>
-      <guid>//localhost:1313/posts/impossible-barber/</guid>
-      <description></description>
+      <title>Hello World</title>
+      <link>//localhost:1313/posts/hello-world/</link>
+      <pubDate>Tue, 23 Sep 2025 23:48:40 +0200</pubDate>
+      <guid>//localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;Hi!&lt;/p&gt;&#xA;&lt;p&gt;You found my little place on the Internet.&#xA;Please, enjoy your visit :D&lt;/p&gt;&#xA;&lt;p&gt;Federico!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A Forty Year Career</title>
+      <title>Why I Quit Without Quitting</title>
+      <link>//localhost:1313/posts/why-i-quit-without-quitting/</link>
+      <pubDate>Thu, 18 Sep 2025 14:55:02 +0200</pubDate>
+      <guid>//localhost:1313/posts/why-i-quit-without-quitting/</guid>
+      <description>&lt;p&gt;An interesting story about broken ideals and dusted promises.&#xA;A goodbye (?) letter, to UniUD.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ok-cool-context&#34;&gt;OK cool, context?&lt;/h2&gt;&#xA;&lt;p&gt;Back in 2022, I obtained my diploma in Telecommunications and Computer Science in High School, after 2.5 years of COVID pandemic and lockdowns,&#xA;I left high school, ready to crash uni, fulfilled with the desire of meeting an enormous amount of clever and smart people and to let them inspire me and to grow together with them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Some Reflections About the Article &#34;A Forty Year Career&#34; by Will Larson</title>
       <link>//localhost:1313/posts/a-forty-year-career/</link>
-      <pubDate>Thu, 11 Sep 2025 23:25:58 +0200</pubDate>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0200</pubDate>
       <guid>//localhost:1313/posts/a-forty-year-career/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>//localhost:1313/posts/test/</link>
-      <pubDate>Mon, 01 Sep 2025 14:39:06 +0200</pubDate>
-      <guid>//localhost:1313/posts/test/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
