@@ -22,5 +22,12 @@
       <guid>//localhost:1313/posts/hello-world/</guid>
       <description>&lt;p&gt;Hi!&lt;/p&gt;&#xA;&lt;p&gt;You found my little place on the Internet.&#xA;Please, enjoy your visit :D&lt;/p&gt;&#xA;&lt;p&gt;Federico!&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Some Reflections About the Article &#34;A Forty Year Career&#34; by Will Larson, and what has changed since 2019</title>
+      <link>//localhost:1313/posts/a-forty-year-career/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0200</pubDate>
+      <guid>//localhost:1313/posts/a-forty-year-career/</guid>
+      <description>&lt;h1 id=&#34;the-american-dream-what-happened-to-it&#34;&gt;The American Dream (What happened to it?)&lt;/h1&gt;&#xA;&lt;p&gt;I really believe that every person can attain success, prosperity and social advancement, despite its birthplace, family status etc.&#xA;I&amp;rsquo;ve really interiorised this concept and I still dream about a word in which I can express myself at best. I still don&amp;rsquo;t know where my career is heading, if it&amp;rsquo;s financial independence or personal success or another thing.&lt;/p&gt;&#xA;&lt;p&gt;My parents are pretty &amp;ldquo;adults&amp;rdquo;, and they will continue working for at least 10 years (shame on &lt;em&gt;SPNI&lt;/em&gt;), and while I am still trying to find the motivation to finish my CS degree (which I am not lacking because of my love for Computer Science, which is stronger than ever, but because of issues with my University that are &amp;ldquo;unlikely to be resolved&amp;rdquo;), I am also harshly looking for some things to do for a living.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
