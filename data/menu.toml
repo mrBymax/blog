@@ -1,4 +1,13 @@
 [[entries]]
+title = "book notes"
+
+  [entries.post_list]
+  section = "book_notes"
+  show_more = true
+  show_more_text = "See all book notes..."
+  show_more_url = "book_notes"
+
+[[entries]]
 title = "all pages"
 
   [entries.post_list]
@@ -6,15 +15,6 @@ title = "all pages"
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
-
-#[[entries]]
-#title = "posts by category"
-#
-#  [entries.post_list]
-#  section = "posts"
-#  show_more = true
-#  show_more_text = "See more posts..."
-#  show_more_url = "posts"
 
 [[entries]]
 title = "rss"
@@ -32,4 +32,3 @@ url = "index.xml"
 #    [[entries.entries.entries]]
 #    title = "example page"
 #    url = "about"
-

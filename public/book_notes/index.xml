@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book_notes on </title>
+    <link>//localhost:1313/book_notes/</link>
+    <description>Recent content in Book_notes on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Mar 2026 00:35:49 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/book_notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Book Note</title>
+      <link>//localhost:1313/book_notes/test-book-note/</link>
+      <pubDate>Tue, 10 Mar 2026 00:35:49 +0100</pubDate>
+      <guid>//localhost:1313/book_notes/test-book-note/</guid>
+      <description>&lt;h2 id=&#34;the-book-in-3-sentences&#34;&gt;The Book in 3 Sentences&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;impressions&#34;&gt;Impressions&lt;/h2&gt;&#xA;&lt;h2 id=&#34;who-should-read-this-book&#34;&gt;Who Should Read This Book?&lt;/h2&gt;&#xA;&lt;h2 id=&#34;how-the-book-changed-me&#34;&gt;How the Book Changed Me&lt;/h2&gt;&#xA;&lt;h2 id=&#34;my-top-3-quotes&#34;&gt;My Top 3 Quotes&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Quote 1&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Quote 2&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Quote 3&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;summary-and-notes&#34;&gt;Summary and Notes&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
