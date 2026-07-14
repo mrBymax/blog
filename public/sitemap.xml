@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/nostalgia/</loc>
+    <lastmod>2026-07-14T03:07:01+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/future/</loc>
+    <lastmod>2026-04-07T01:42:49+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2026-04-07T01:42:49+02:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/book-notes/</loc>
     <lastmod>2026-03-11T23:49:38+01:00</lastmod>
   </url><url>
@@ -13,9 +22,6 @@
   </url><url>
     <loc>//localhost:1313/tags/</loc>
     <lastmod>2026-03-11T23:49:38+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-10-24T09:18:47+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/quit-social-media/</loc>
     <lastmod>2025-10-24T09:18:47+02:00</lastmod>
